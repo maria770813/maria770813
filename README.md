@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MARIA SOHN
+- 👋 Hi, I’m anne-MARIA SOHN
 - 👀 I’m interested in THE ART
 - 🌱 I’m currently learning PYTHON, JAVASCRIPT AND MACHIN LEARNING, DEEP LEARNING FOR AI
 - 💞️ I’m looking to collaborate on ...
